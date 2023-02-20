@@ -1,6 +1,6 @@
 package ${package.Controller};
 
-import com.neko.seed.base.entity.Result;
+import cn.com.ice.codeGenerator.utils.Result;
 import ${package.Entity}.${entity};
 import com.github.pagehelper.PageInfo;
 import java.util.List;
